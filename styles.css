@@ -15,7 +15,7 @@ h1, h2 {
 }
 
 img {
-    width: 150px;
+    width: 200px;
     height: auto;
     border-radius: 50%;
 }
@@ -68,3 +68,16 @@ footer {
     text-align: center;
     margin: 20px 0;
 }
+table {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+ 
